@@ -1,0 +1,7595 @@
+Local Machine info:
+ 127.0.0.1:15001 0
+Slaveset:	ip-list
+I'm a supleader
+6537
+Jump out from wait
+Jump out from wait
+0
+12
+steps without apparent progress: 0
+1
+2
+3
+Finish initialization training, it takes 0 seconds
+Finished Initialization, now start training procedures
+[127.0.0.1:14001]	0 2	0xbf3480	1
+[127.0.0.1:14002]	0 2	0x19821b0	1
+[127.0.0.1:14003]	0 2	0x1982240	1
+[127.0.0.1:13007]	0 1	0x19822d0	1
+Now we have 4 slaves
+1
+[debug]Wait
+[debug]Wait
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 176
+(send 217
+(send 271
+(send 265
+(recv 139
+[debug]Wait
+[debug]Resume
+(send 45
+(recv 53
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 218
+[debug]Wait
+[debug]Resume
+(recv 220
+(recv 176
+[debug]Wait
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(send 260
+(send 218
+(send 257
+(send 255
+(recv 224
+[debug]Wait
+[debug]Resume
+(send 147
+(recv 46
+[debug]Wait
+[debug]Resume
+(send 86
+(recv 218
+[debug]Wait
+[debug]Resume
+(recv 229
+[debug]Wait
+[debug]Resume
+(recv 185
+[debug]Wait
+[debug]Resume
+(send 87
+(send 142
+(send 140
+(recv 50
+[debug]Wait
+[debug]Resume
+(send 143
+(recv 137
+[debug]Wait
+[debug]Resume
+(recv 89
+[debug]Wait
+[debug]Resume
+(send 212
+(recv 132
+[debug]Wait
+[debug]Resume
+(send 46
+(recv 179
+[debug]Wait
+[debug]Resume
+(send 264
+(send 47
+(recv 50
+[debug]Wait
+[debug]Resume
+(send 182
+(recv 181
+[debug]Wait
+[debug]Resume
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 218
+(send 136
+(recv 135
+[debug]Wait
+[debug]Resume
+(recv 263
+[debug]Wait
+[debug]Resume
+(send 91
+(send 181
+(recv 53
+[debug]Wait
+[debug]Resume
+(send 134
+(recv 185
+[debug]Wait
+[debug]Resume
+(recv 135
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 264
+(send 93
+(send 211
+(recv 50
+[debug]Wait
+[debug]Resume
+(recv 224
+[debug]Wait
+[debug]Resume
+(send 51
+(send 260
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+128
+(recv 262
+[debug]Wait
+128
+128
+128
+128
+128
+(send 220
+128
+(send 218
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 178
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 177
+[debug]Wait
+128
+(recv 266
+[debug]Wait
+128
+9
+testing num_right: 4680
+testing num_wrong: 1857
+testing accuracy:  0.715925
+Time for Validation is 1019
+[debug]Resume[debug]Resume
+
+[debug]Resume[debug]Resume
+
+(send 177
+(send 195
+(send 220
+(send 262
+(recv 49
+[debug]Wait
+[debug]Resume
+(send 49
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 87
+(recv 266
+[debug]Wait
+[debug]Resume
+(recv 267
+[debug]Wait
+[debug]Resume
+(recv 135
+[debug]Wait
+[debug]Resume
+(send 46
+(send 94
+(send 225
+(recv 47
+[debug]Wait
+[debug]Resume
+(send 171
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 135
+(recv 48
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+(send 84
+(recv 137
+[debug]Wait
+[debug]Resume
+(send 305
+(send 256
+(send 267
+(recv 92
+[debug]Wait
+[debug]Resume
+(recv 136
+[debug]Wait
+[debug]Resume
+(recv 130
+[debug]Wait
+[debug]Resume
+(recv 93
+(send 136
+[debug]Wait
+[debug]Resume
+(send 44
+(send 177
+(send 229
+(recv 145
+[debug]Wait
+[debug]Resume
+(send 99
+(recv 134
+[debug]Wait
+[debug]Resume
+(recv 48
+(send 45
+[debug]Wait
+[debug]Resume
+(recv 264
+[debug]Wait
+[debug]Resume
+(send 212
+(recv 233
+[debug]Wait
+[debug]Resume
+(send 270
+(send 269
+(recv 273
+[debug]Wait
+[debug]Resume
+(recv 277
+[debug]Wait
+[debug]Resume
+(send 135
+(recv 139
+[debug]Wait
+[debug]Resume
+(send 174
+(send 176
+(recv 92
+[debug]Wait
+[debug]Resume
+(recv 229
+[debug]Wait
+[debug]Resume
+(send 97
+(send 173
+(recv 137
+[debug]Wait
+[debug]Resume
+(recv 267
+[debug]Wait
+[debug]Resume
+(send 220
+(recv 266
+[debug]Wait
+[debug]Resume
+(send 268
+(recv 91
+[debug]Wait
+Jump out from wait
+128
+[debug]Resume
+128
+128
+(send 218
+128
+(send 93
+128
+128
+(recv 51
+128
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 130
+[debug]Wait
+128
+128
+(recv 91
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 180
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 4738
+testing num_wrong: 1799
+testing accuracy:  0.724797
+Time for Validation is 1094
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 174
+(send 175
+(send 217
+(send 220
+(recv 92
+[debug]Wait
+[debug]Resume
+(send 46
+(recv 176
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 178
+[debug]Wait
+[debug]Resume
+(send 90
+(recv 182
+(send 93
+[debug]Wait
+[debug]Resume
+(send 133
+(send 268
+(recv 196
+[debug]Wait
+[debug]Resume
+(send 274
+(recv 179
+(recv 136
+[debug]Wait
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(recv 184
+[debug]Wait
+[debug]Resume
+(recv 261
+[debug]Wait
+[debug]Resume
+(send 259
+(send 261
+(send 176
+(send 293
+(recv 131
+[debug]Wait
+[debug]Resume
+(recv 217
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 258
+(recv 218
+[debug]Wait
+[debug]Resume
+(send 220
+(send 225
+(send 263
+(recv 141
+[debug]Wait
+[debug]Resume
+(send 51
+(recv 91
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 91
+(send 86
+(send 219
+(recv 100
+[debug]Wait
+[debug]Resume
+(send 41
+(recv 95
+[debug]Wait
+[debug]Resume
+(send 50
+(recv 185
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 135
+[debug]Wait
+[debug]Resume
+(recv 264
+[debug]Wait
+[debug]Resume
+(send 46
+(send 178
+(recv 89
+[debug]Wait
+[debug]Resume
+(send 232
+(send 170
+(recv 276
+[debug]Wait
+[debug]Resume
+(send 187
+(recv 141
+[debug]Wait
+[debug]Resume
+(recv 133
+[debug]Wait
+[debug]Resume
+(send 91
+(send 260
+(recv 225
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+(recv 266
+[debug]Wait
+128
+128
+(send 98
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 224
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 180
+[debug]Wait
+128
+128
+(recv 223
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 4738
+testing num_wrong: 1799
+testing accuracy:  0.724797
+Time for Validation is 1024
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 174
+(send 175
+(send 177
+(send 221
+(recv 99
+[debug]Wait
+[debug]Resume
+(send 64
+(recv 134
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 131
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 228
+[debug]Wait
+[debug]Resume
+(send 232
+(send 86
+(send 129
+(send 213
+(recv 95
+[debug]Wait
+[debug]Resume
+(send 52
+(recv 95
+[debug]Wait
+[debug]Resume
+(recv 266
+[debug]Wait
+[debug]Resume
+(send 128
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 186
+[debug]Wait
+[debug]Resume
+(send 183
+(send 215
+(send 180
+(recv 217
+[debug]Wait
+[debug]Resume
+(send 187
+(recv 274
+[debug]Wait
+[debug]Resume
+(recv 133
+[debug]Wait
+[debug]Resume
+(recv 95
+[debug]Wait
+[debug]Resume
+(recv 222
+(send 132
+[debug]Wait
+[debug]Resume
+(send 219
+(send 182
+(send 135
+(recv 49
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(send 63
+(recv 96
+[debug]Wait
+[debug]Resume
+(recv 135
+[debug]Wait
+(send 47
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 264
+[debug]Wait
+[debug]Resume
+(send 91
+(send 137
+(send 183
+(recv 133
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 226
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 175
+(send 216
+(send 258
+(send 305
+(recv 221
+[debug]Wait
+[debug]Resume
+(send 148
+(recv 232
+[debug]Wait
+[debug]Resume
+(recv 89
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+(send 134
+128
+(send 221
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(send 268
+128
+(recv 271
+[debug]Wait
+128
+128
+128
+(recv 141
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 219
+[debug]Wait
+128
+128
+128
+128
+128
+128
+(recv 182
+[debug]Wait
+128
+128
+128
+9
+testing num_right: 4738
+testing num_wrong: 1799
+testing accuracy:  0.724797
+Time for Validation is 1080
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 174
+(send 178
+(send 216
+(send 235
+(recv 49
+[debug]Wait
+[debug]Resume
+(send 43
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 139
+(send 49
+[debug]Wait
+[debug]Resume
+(recv 239
+[debug]Wait
+[debug]Resume
+(send 269
+(send 221
+(recv 274
+[debug]Wait
+[debug]Resume
+(send 172
+(recv 225
+[debug]Wait
+(recv 91
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(send 95
+(send 136
+(recv 52
+[debug]Wait
+[debug]Resume
+(send 46
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 47
+[debug]Wait
+[debug]Resume
+(send 151
+(send 47
+(recv 94
+[debug]Wait
+[debug]Resume
+(recv 136
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 217
+(send 186
+(send 262
+(recv 53
+[debug]Wait
+[debug]Resume
+(send 88
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 180
+(recv 100
+[debug]Wait
+[debug]Resume
+(send 260
+(recv 92
+[debug]Wait
+[debug]Resume
+(recv 174
+[debug]Wait
+[debug]Resume
+(recv 265
+[debug]Wait
+[debug]Resume
+(send 44
+(send 183
+(send 181
+(recv 53
+[debug]Wait
+[debug]Resume
+(recv 54
+[debug]Wait
+[debug]Resume
+(send 48
+(send 304
+(recv 225
+(recv 183
+Replaced !!!!!!
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+(recv 173
+[debug]Wait
+[debug]Resume
+(send 90
+(send 133
+(send 95
+(recv 57
+[debug]Wait
+[debug]Resume
+(recv 105
+[debug]Wait
+[debug]Resume
+(send 106
+(send 137
+(recv 185
+[debug]Wait
+[debug]Resume
+(recv 136
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+(send 126
+128
+128
+128
+128
+128
+128
+128
+(recv 264
+128
+[debug]Wait
+128
+128
+(send 274
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 47
+[debug]Wait
+(recv 90
+[debug]Wait
+128
+128
+128
+128
+(recv 312
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 4738
+testing num_wrong: 1799
+testing accuracy:  0.724797
+Time for Validation is 1020
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 47
+(send 53
+(send 51
+(send 220
+(recv 89
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(send 99
+(recv 47
+[debug]Wait
+[debug]Resume
+(recv 133
+[debug]Wait
+[debug]Resume
+(recv 93
+[debug]Wait
+[debug]Resume
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 89
+(send 259
+(send 224
+(send 264
+(recv 178
+[debug]Wait
+[debug]Resume
+(send 186
+(recv 138
+(recv 184
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+(send 128
+(send 129
+(recv 223
+[debug]Wait
+[debug]Resume
+(recv 226
+[debug]Wait
+[debug]Resume
+(send 219
+(send 135
+(recv 133
+[debug]Wait
+[debug]Resume
+(recv 138
+[debug]Wait
+[debug]Resume
+(send 86
+(recv 219
+[debug]Wait
+[debug]Resume
+(send 228
+(recv 87
+[debug]Wait
+[debug]Resume
+(send 260
+(send 221
+(recv 267
+[debug]Wait
+[debug]Resume
+(recv 96
+[debug]Wait
+[debug]Resume
+(send 270
+(recv 53
+(send 267
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 257
+(send 140
+(recv 221
+[debug]Wait
+[debug]Resume
+(send 84
+(recv 186
+[debug]Wait
+[debug]Resume
+(recv 92
+[debug]Wait
+[debug]Resume
+(send 44
+(send 182
+(recv 95
+[debug]Wait
+[debug]Resume
+(recv 99
+[debug]Wait
+[debug]Resume
+(send 260
+(recv 216
+[debug]Wait
+[debug]Resume
+(send 262
+(send 98
+(recv 139
+[debug]Wait
+[debug]Resume
+(send 47
+(recv 50
+[debug]Wait
+[debug]Resume
+(send 91
+(recv 226
+[debug]Wait
+[debug]Resume
+(recv 268
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+(recv 223
+[debug]Wait
+128
+128
+128
+128
+128
+(send 136
+128
+128
+(send 302
+128
+128
+128
+128
+(recv 96
+[debug]Wait
+128
+(recv 176
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 263
+[debug]Wait
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 4738
+testing num_wrong: 1799
+testing accuracy:  0.724797
+Time for Validation is 1036
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 174
+(send 218
+(send 219
+(send 218
+(recv 99
+[debug]Wait
+[debug]Resume
+(send 50
+(recv 176
+[debug]Wait
+[debug]Resume
+(recv 50
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+(recv 224
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(send 133
+(send 167
+(send 176
+(send 259
+(recv 113
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(send 141
+(recv 185
+[debug]Wait
+[debug]Resume
+(recv 91
+(recv 48
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+(send 128
+(send 129
+(recv 267
+[debug]Wait
+[debug]Resume
+(send 220
+(send 137
+(recv 61
+[debug]Wait
+Replaced !!!!!!
+[debug]Resume
+(recv 224
+[debug]Wait
+[debug]Resume
+(send 178
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 222
+(send 218
+(send 314
+(recv 228
+[debug]Wait
+[debug]Resume
+(send 230
+(recv 134
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 180
+[debug]Wait
+[debug]Resume
+(recv 307
+[debug]Wait
+[debug]Resume
+(send 212
+(send 219
+(send 169
+(send 269
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 91
+(recv 92
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+(recv 269
+(send 90
+[debug]Wait
+[debug]Resume
+(send 171
+(send 181
+(send 261
+(recv 53
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(send 148
+(recv 135
+[debug]Wait
+[debug]Resume
+(send 182
+(recv 265
+(recv (recv 179179
+
+[debug]Wait
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+[debug]Resume
+Jump out from wait
+128
+128
+128
+128
+128
+(send 84
+(send 91
+128
+128
+(send 168
+128
+128
+128
+128
+128
+128
+(recv 47
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 46
+[debug]Wait
+128
+128
+(recv 174
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 219
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 4741
+testing num_wrong: 1796
+testing accuracy:  0.725256
+Time for Validation is 1116
+[debug]Resume[debug]Resume
+[debug]Resume
+
+[debug]Resume
+(send 219
+(send 218
+(send 223
+(send 221
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 100
+(recv 176
+(recv 91
+[debug]Wait
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(recv 178
+[debug]Wait
+[debug]Resume
+(send 87
+(recv 262
+[debug]Wait
+[debug]Resume
+(send 167
+(send 134
+(send 260
+(recv 60
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(send 228
+(recv 92
+[debug]Wait
+[debug]Resume
+(recv 97
+[debug]Wait
+[debug]Resume
+(recv 130
+[debug]Wait
+[debug]Resume
+(send 176
+(send 176
+(send 218
+(recv 275
+[debug]Wait
+[debug]Resume
+(send 188
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 264
+(recv 222
+[debug]Wait
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(recv 174
+[debug]Wait
+[debug]Resume
+(send 258
+(send 177
+(send 220
+(send 261
+(recv 136
+[debug]Wait
+[debug]Resume
+(send 93
+(recv 145
+[debug]Wait
+[debug]Resume
+(send 211
+(recv 218
+[debug]Wait
+[debug]Resume
+(recv 176
+[debug]Wait
+[debug]Resume
+(recv 88
+[debug]Wait
+[debug]Resume
+(send 44
+(send 223
+(send 215
+(recv 138
+[debug]Wait
+[debug]Resume
+(recv 224
+[debug]Wait
+[debug]Resume
+(send 213
+(recv 178
+[debug]Wait
+[debug]Resume
+(send 228
+(send 50
+(recv 274
+[debug]Wait
+[debug]Resume
+(send 47
+(recv 146
+[debug]Wait
+[debug]Resume
+(send 179
+(recv 218
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 218
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+(recv 221
+[debug]Wait
+128
+128
+(send 214
+128
+(send 84
+128
+128
+128
+128
+128
+128
+128
+(send 218
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 91
+(recv 179
+128
+[debug]Wait
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 132
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 5954
+testing num_wrong: 583
+testing accuracy:  0.910815
+Time for Validation is 1077
+[debug]Resume[debug]Resume
+[debug]Resume
+
+[debug]Resume
+(send 89
+(send 134
+(send 139
+(send 136
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 48
+(recv 92
+[debug]Wait
+[debug]Resume
+(recv 177
+[debug]Wait
+[debug]Resume
+(recv 176
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+(send 90
+[debug]Resume
+(send 42
+(send 222
+(send 218
+(recv 136
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 88
+(recv 181
+(recv 217
+[debug]Wait
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(send 272
+(send 130
+(send 222
+(recv 95
+[debug]Wait
+[debug]Resume
+(send 224
+(recv 267
+(recv 92
+[debug]Wait
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 131
+(send 90
+(recv 133
+[debug]Wait
+[debug]Resume
+(send 180
+(send 178
+(recv 137
+[debug]Wait
+[debug]Resume
+(send 100
+(recv 52
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 133
+[debug]Wait
+[debug]Resume
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 221
+(send 87
+(send 136
+(recv 231
+[debug]Wait
+[debug]Resume
+(recv 136
+[debug]Wait
+[debug]Resume
+(send 105
+(send 64
+(recv 177
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 266
+[debug]Wait
+[debug]Resume
+(send 133
+(recv 130
+[debug]Wait
+[debug]Resume
+(send 213
+(send 220
+(send 259
+(recv 276
+[debug]Wait
+[debug]Resume
+(send 100
+(recv 134
+(recv 221
+Replaced !!!!!!
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+(recv 179
+[debug]Wait
+Jump out from wait
+[debug]Resume
+(recv 90
+128
+[debug]Wait
+128
+(send 89
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(send 255
+128
+(send 213
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 224
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 91
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 220
+[debug]Wait
+9
+testing num_right: 5972
+testing num_wrong: 565
+testing accuracy:  0.913569
+Time for Validation is 1036
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 46
+(send 93
+(send 185
+(send 207
+(recv 47
+[debug]Wait
+[debug]Resume
+(send 51
+(recv 269
+[debug]Wait
+[debug]Resume
+(recv 178
+[debug]Wait
+[debug]Resume
+(recv 218
+[debug]Wait
+[debug]Resume
+(send 45
+(send 256
+(recv 267
+[debug]Wait
+[debug]Resume
+(send 268
+(send 94
+(recv 51
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 101
+(send 178
+(recv 176
+[debug]Wait
+(recv 92
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(recv 179
+[debug]Wait
+[debug]Resume
+(send 175
+(send 215
+(send 98
+(recv 139
+[debug]Wait
+[debug]Resume
+(send 103
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 264
+(send 262
+[debug]Wait
+[debug]Resume
+(send 91
+(recv 95
+[debug]Wait
+[debug]Resume
+(recv 270
+[debug]Wait
+[debug]Resume
+(send 175
+(send 270
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 172
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 177
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 259
+(send 229
+(send 225
+(recv 181
+[debug]Wait
+[debug]Resume
+(recv 95
+[debug]Wait
+[debug]Resume
+(send 50
+(send 213
+(recv 224
+[debug]Wait
+[debug]Resume
+(recv 46
+[debug]Wait
+[debug]Resume
+(recv 217
+(send 89
+[debug]Wait
+[debug]Resume
+(send 90
+(send 178
+(recv 50
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(send 175
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 137
+[debug]Wait
+[debug]Resume
+(recv 134
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+(send 46
+128
+128
+128
+(recv 226
+[debug]Wait
+128
+(send 302
+128
+128
+128
+(send 255
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 142
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 48
+[debug]Wait
+128
+128
+(recv 95
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6032
+testing num_wrong: 505
+testing accuracy:  0.922747
+Time for Validation is 1059
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 177
+(send 217
+(send 217
+(send 219
+(recv 97
+[debug]Wait
+[debug]Resume
+(send 49
+(recv 95
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 89
+[debug]Wait
+[debug]Resume
+(send 44
+(recv 216
+[debug]Wait
+[debug]Resume
+(send 86
+(send 132
+(send 96
+(recv 98
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(send 184
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 137
+[debug]Wait
+[debug]Resume
+(recv 181
+(send 90
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 87
+(send 180
+(send 227
+(recv 133
+[debug]Wait
+[debug]Resume
+(recv 266
+[debug]Wait
+[debug]Resume
+(recv 174
+[debug]Wait
+[debug]Resume
+(send 134
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 91
+(send 184
+(send 177
+(recv 50
+[debug]Wait
+[debug]Resume
+(send 101
+(recv 139
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 138
+[debug]Wait
+[debug]Resume
+(send 180
+(send 44
+(recv 221
+[debug]Wait
+[debug]Resume
+(send 182
+(send 91
+(recv 101
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 224
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 272
+(send 90
+(send 174
+(recv 130
+[debug]Wait
+[debug]Resume
+(send 223
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 97
+(recv 180
+[debug]Wait
+[debug]Resume
+(recv 176
+[debug]Wait
+[debug]Resume
+(recv 135
+[debug]Wait
+[debug]Resume
+(recv 89
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+(send 139
+(send 91
+(send 45
+128
+128
+128
+128
+(send 259
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 176
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 265
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 181
+128
+[debug]Wait
+128
+128
+128
+(recv 176
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6030
+testing num_wrong: 507
+testing accuracy:  0.922441
+Time for Validation is 1130
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 138
+(send 138
+(send 141
+(send 177
+(recv 47
+[debug]Wait
+[debug]Resume
+(send 48
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 178
+[debug]Wait
+[debug]Resume
+(send 87
+(recv 138
+[debug]Wait
+[debug]Resume
+(send 90
+(send 44
+(recv 224
+[debug]Wait
+[debug]Resume
+(send 183
+(recv 178
+[debug]Wait
+[debug]Resume
+(send 49
+(recv 221
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 269
+[debug]Wait
+(recv 138
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(send 177
+(send 215
+(send 261
+(recv 184
+[debug]Wait
+[debug]Resume
+(send 134
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 178
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 172
+(recv 223
+[debug]Wait
+[debug]Resume
+(recv 139
+[debug]Wait
+[debug]Resume
+(recv 268
+[debug]Wait
+[debug]Resume
+(send 89
+(send 217
+(send 182
+(recv 94
+[debug]Wait
+[debug]Resume
+(send 133
+(recv 271
+[debug]Wait
+[debug]Resume
+(send 91
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 185
+[debug]Wait
+[debug]Resume
+(send 263
+(recv 184
+[debug]Wait
+[debug]Resume
+(send 170
+(send 133
+(recv 96
+[debug]Wait
+[debug]Resume
+(send 89
+(recv 268
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 45
+(send 271
+(send 90
+(recv 179
+[debug]Wait
+[debug]Resume
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 216
+(send 223
+(recv 131
+[debug]Wait
+[debug]Resume
+(recv 52
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+(recv 184
+[debug]Wait
+128
+(send 259
+128
+128
+128
+128
+128
+(send 217
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 182
+[debug]Wait
+128
+128
+128
+128
+128
+128
+(recv 47
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 263
+[debug]Wait
+128
+128
+128
+128
+128
+9
+testing num_right: 6032
+testing num_wrong: 505
+testing accuracy:  0.922747
+Time for Validation is 1099
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 95
+(send 134
+(send 187
+(send 217
+(recv 228
+[debug]Wait
+[debug]Resume
+(send 47
+(recv 50
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 223
+[debug]Wait
+[debug]Resume
+(send 90
+(recv 92
+[debug]Wait
+[debug]Resume
+(recv 136
+[debug]Wait
+[debug]Resume
+(send 90
+(send 134
+(send 181
+(recv 239
+[debug]Wait
+[debug]Resume
+(send 90
+(recv 90
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 133
+[debug]Wait
+[debug]Resume
+(send 88
+(recv 48
+(send 180
+[debug]Wait
+[debug]Resume
+(recv 143
+[debug]Wait
+[debug]Resume
+(send 139
+(send 230
+(recv 273
+[debug]Wait
+[debug]Resume
+(send 139
+(recv 140
+[debug]Wait
+[debug]Resume
+(recv 47
+[debug]Wait
+[debug]Resume
+(send 257
+(recv 178
+[debug]Wait
+[debug]Resume
+(recv 263
+[debug]Wait
+[debug]Resume
+(send 174
+(send 127
+(send 184
+(recv 93
+[debug]Wait
+Replaced !!!!!!
+[debug]Resume
+(send 48
+(recv 136
+[debug]Wait
+[debug]Resume
+(send 89
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 135
+[debug]Wait
+[debug]Resume
+(send 87
+(send 92
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 307
+(recv 173
+[debug]Wait
+[debug]Resume
+(recv 178
+[debug]Wait
+[debug]Resume
+(send 181
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 264
+(send 173
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 272
+[debug]Wait
+[debug]Resume
+(send 93
+(send 139
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 86
+(recv 265
+[debug]Wait
+[debug]Resume
+(send 52
+(recv 183
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+(recv 138
+[debug]Wait
+128
+128
+128
+128
+128
+128
+(send 219
+(recv 94
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 179
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 262
+[debug]Wait
+9
+testing num_right: 6082
+testing num_wrong: 455
+testing accuracy:  0.930396
+Time for Validation is 1027
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 52
+(send 95
+(send 225
+(send 254
+(recv 231
+[debug]Wait
+[debug]Resume
+(send 275
+(recv 224
+[debug]Wait
+[debug]Resume
+(send 85
+(recv 49
+[debug]Wait
+[debug]Resume
+(recv 222
+[debug]Wait
+[debug]Resume
+(recv 185
+[debug]Wait
+[debug]Resume
+(send 137
+(send 44
+(send 278
+(recv 47
+[debug]Wait
+[debug]Resume
+(recv 99
+[debug]Wait
+[debug]Resume
+(send 231
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 264
+(recv 47
+[debug]Wait
+[debug]Resume
+(recv 183
+[debug]Wait
+[debug]Resume
+(send 89
+(send 215
+(send 54
+(recv 186
+[debug]Wait
+[debug]Resume
+(send 183
+(recv 225
+[debug]Wait
+[debug]Resume
+(recv 93
+[debug]Wait
+[debug]Resume
+(send 138
+(send 172
+(recv 140
+[debug]Wait
+[debug]Resume
+(recv 265
+[debug]Wait
+[debug]Resume
+(send 227
+(send 226
+(recv 133
+[debug]Wait
+[debug]Resume
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 136
+(send 260
+(recv 222
+[debug]Wait
+[debug]Resume
+(send 132
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 133
+(recv 275
+[debug]Wait
+[debug]Resume
+(send 146
+(recv 49
+[debug]Wait
+[debug]Resume
+(send 205
+(recv 49
+[debug]Wait
+[debug]Resume
+(recv 272
+[debug]Wait
+[debug]Resume
+(send 91
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 219
+(send 175
+(recv 52
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 272
+(recv 266
+[debug]Wait
+[debug]Resume
+(recv 92
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+(send 264
+128
+128
+128
+128
+128
+(send 131
+(recv 50
+[debug]Wait
+128
+128
+128
+128
+128
+(send 263
+128
+128
+128
+128
+128
+128
+128
+(recv 226
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 217
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6082
+testing num_wrong: 455
+testing accuracy:  0.930396
+Time for Validation is 1106
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(recv 221
+[debug]Wait
+[debug]Resume
+(send 131
+(send 173
+(send 178
+(send 225
+(recv 144
+[debug]Wait
+[debug]Resume
+(send 73
+(recv 175
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 221
+[debug]Wait
+[debug]Resume
+(recv 183
+[debug]Wait
+[debug]Resume
+(send 133
+(send 214
+(send 219
+(recv 267
+[debug]Wait
+[debug]Resume
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 223
+(send 102
+(recv 183
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 223
+[debug]Wait
+[debug]Resume
+(recv 219
+[debug]Wait
+[debug]Resume
+(send 46
+(send 133
+(send 263
+(recv 231
+[debug]Wait
+[debug]Resume
+(recv 226
+[debug]Wait
+[debug]Resume
+(send 185
+(send 227
+(recv 176
+[debug]Wait
+[debug]Resume
+(send 255
+(recv 262
+[debug]Wait
+[debug]Resume
+(recv 264
+[debug]Wait
+[debug]Resume
+(send 219
+(recv 273
+[debug]Wait
+[debug]Resume
+(send 234
+(send 254
+(recv 132
+[debug]Wait
+[debug]Resume
+(recv 179
+[debug]Wait
+[debug]Resume
+(send 92
+(send 130
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 41
+(recv 50
+[debug]Wait
+[debug]Resume
+(send 59
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 183
+[debug]Wait
+[debug]Resume
+(recv 227
+(send 171
+[debug]Wait
+[debug]Resume
+(send 299
+(recv 137
+(send 182
+[debug]Wait
+[debug]Resume
+(send 174
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 257
+(recv 134
+[debug]Wait
+[debug]Resume
+(recv 178
+[debug]Wait
+[debug]Resume
+(send 258
+(recv 91
+(recv 221
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+Jump out from wait
+128
+128
+(send 258
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(send 217
+128
+(send 262
+128
+128
+128
+128
+128
+128
+128
+(recv 140
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 91
+[debug]Wait
+128
+(recv 179
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 182
+[debug]Wait
+128
+128
+128
+128
+9
+testing num_right: 6212
+testing num_wrong: 325
+testing accuracy:  0.950283
+Time for Validation is 1097
+[debug]Resume
+[debug]Resume
+[debug]Resume
+Replaced !!!!!!
+[debug]Resume
+(send 177
+(send 218
+(send 221
+(send 224
+(recv 96
+[debug]Wait
+[debug]Resume
+(send 43
+(recv 49
+[debug]Wait
+[debug]Resume
+(recv 93
+[debug]Wait
+[debug]Resume
+(send 217
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 131
+[debug]Wait
+[debug]Resume
+(send 266
+(send 217
+(send 262
+(recv 143
+[debug]Wait
+[debug]Resume
+(recv 137
+[debug]Wait
+[debug]Resume
+(send 227
+(send 268
+(recv 92
+[debug]Wait
+[debug]Resume
+(recv 221
+[debug]Wait
+[debug]Resume
+(recv 222
+[debug]Wait
+[debug]Resume
+(send 222
+(send 262
+(send 133
+(recv 92
+[debug]Wait
+[debug]Resume
+(send 51
+(recv 181
+[debug]Wait
+[debug]Resume
+(send 222
+(recv 132
+[debug]Wait
+[debug]Resume
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 141
+(recv 226
+[debug]Wait
+[debug]Resume
+(send 257
+(recv 177
+(send 176
+[debug]Wait
+[debug]Resume
+(recv 49
+[debug]Wait
+[debug]Resume
+(send 131
+(send 222
+(recv 190
+[debug]Wait
+[debug]Resume
+(recv 262
+[debug]Wait
+[debug]Resume
+(send 312
+(recv 174
+[debug]Wait
+[debug]Resume
+(send 223
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 224
+(recv 137
+[debug]Wait
+[debug]Resume
+(send 313
+(send 96
+(recv 140
+[debug]Wait
+[debug]Resume
+(recv 92
+[debug]Wait
+[debug]Resume
+(send 268
+(recv 131
+[debug]Wait
+[debug]Resume
+(send 228
+(recv 179
+[debug]Wait
+[debug]Resume
+(send 217
+(recv 221
+[debug]Wait
+[debug]Resume
+(send 266
+(send 184
+(recv 140
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+128
+128
+128
+(send 177
+128
+128
+128
+128
+(recv 132
+[debug]Wait
+128
+128
+128
+128
+128
+(recv 92
+[debug]Wait
+128
+128
+128
+(recv 93
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 220
+128
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6258
+testing num_wrong: 279
+testing accuracy:  0.95732
+Time for Validation is 1033
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 130
+(send 177
+(send 218
+(send 223
+(recv 47
+[debug]Wait
+[debug]Resume
+(send 45
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 178
+[debug]Wait
+[debug]Resume
+(recv 219
+[debug]Wait
+[debug]Resume
+(send 48
+(recv 135
+[debug]Wait
+[debug]Resume
+(send 90
+(send 219
+(send 218
+(recv 93
+[debug]Wait
+[debug]Resume
+(send 88
+(recv 66
+[debug]Wait
+[debug]Resume
+(send 51
+(recv 51
+[debug]Wait
+[debug]Resume
+(send 50
+(recv 57
+[debug]Wait
+[debug]Resume
+(recv 228
+[debug]Wait
+[debug]Resume
+(send 173
+(send 261
+(recv 135
+[debug]Wait
+[debug]Resume
+(recv 271
+[debug]Wait
+[debug]Resume
+(send 136
+(send 220
+(recv 93
+[debug]Wait
+[debug]Resume
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 210
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 134
+(send 46
+(send 179
+(recv 56
+[debug]Wait
+[debug]Resume
+(send 64
+(recv 184
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 268
+[debug]Wait
+[debug]Resume
+(recv 179
+[debug]Wait
+[debug]Resume
+(send 49
+(send 228
+(recv 135
+[debug]Wait
+[debug]Resume
+(send 213
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 225
+(send 96
+(recv 136
+[debug]Wait
+[debug]Resume
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 261
+(recv 263
+[debug]Wait
+[debug]Resume
+(recv 94
+[debug]Wait
+[debug]Resume
+(send 220
+(send 218
+(send 257
+(recv 47
+[debug]Wait
+[debug]Resume
+(send 225
+(recv 133
+(recv 134
+[debug]Wait
+Jump out from wait
+[debug]Resume
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(send 211
+128
+(recv 181
+[debug]Wait
+128
+128
+128
+128
+128
+(recv 263
+128
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 221
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6262
+testing num_wrong: 275
+testing accuracy:  0.957932
+Time for Validation is 1010
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 174
+(send 178
+(send 217
+(send 222
+(recv 109
+[debug]Wait
+[debug]Resume
+(send 52
+(recv 180
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 178
+[debug]Wait
+[debug]Resume
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 136
+(send 90
+(send 216
+(send 266
+(recv 272
+[debug]Wait
+[debug]Resume
+(send 53
+(recv 226
+[debug]Wait
+[debug]Resume
+(recv 176
+[debug]Wait
+[debug]Resume
+(recv 89
+[debug]Wait
+[debug]Resume
+(send 50
+(recv 179
+[debug]Wait
+[debug]Resume
+(send 131
+(send 259
+(send 168
+(recv 217
+[debug]Wait
+[debug]Resume
+(send 126
+(recv 47
+[debug]Wait
+[debug]Resume
+(recv 265
+[debug]Wait
+[debug]Resume
+(recv 178
+(recv 178
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+(send 214
+(send 131
+(send 181
+(send 263
+(recv 228
+[debug]Wait
+[debug]Resume
+(recv 50
+[debug]Wait
+[debug]Resume
+(send 109
+(send 270
+(recv 264
+[debug]Wait
+[debug]Resume
+(send 45
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 275
+[debug]Wait
+[debug]Resume
+(send 186
+(send 308
+(recv 90
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 139
+[debug]Wait
+[debug]Resume
+(send 93
+(recv 183
+(send 265
+[debug]Wait
+[debug]Resume
+(recv 184
+(recv 91
+[debug]Wait
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(send 217
+(send 183
+(send 185
+(recv 54
+[debug]Wait
+[debug]Resume
+(recv 58
+[debug]Wait
+[debug]Resume
+(send 226
+(send 262
+(recv 135
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+128
+128
+(send 134
+(recv 185
+[debug]Wait
+128
+128
+128
+128
+128
+128
+(recv 225
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 94
+[debug]Wait
+128
+128
+128
+128
+128
+(recv 132
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6352
+testing num_wrong: 185
+testing accuracy:  0.9717
+Time for Validation is 1038
+[debug]Resume
+[debug]Resume[debug]Resume
+
+[debug]Resume
+(send 51
+(send 176
+(send 183
+(send 224
+(recv 137
+[debug]Wait
+[debug]Resume
+(send 84
+(recv 133
+[debug]Wait
+[debug]Resume
+(recv 134
+[debug]Wait
+[debug]Resume
+(recv 226
+[debug]Wait
+[debug]Resume
+(send 215
+(recv 177
+[debug]Wait
+(send 257
+[debug]Resume
+(send 181
+(send 267
+(recv 53
+[debug]Wait
+[debug]Resume
+(recv 138
+[debug]Wait
+[debug]Resume
+(send 170
+(send 179
+(recv 93
+[debug]Wait
+[debug]Resume
+(recv 218
+[debug]Wait
+[debug]Resume
+(send 145
+(recv 181
+[debug]Wait
+[debug]Resume
+(send 258
+(send 93
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 43
+(recv 51
+[debug]Wait
+[debug]Resume
+(recv 135
+[debug]Wait
+[debug]Resume
+(send 233
+(recv 133
+[debug]Wait
+[debug]Resume
+(send 262
+(recv 222
+[debug]Wait
+[debug]Resume
+(send 45
+(send 215
+(recv 220
+[debug]Wait
+[debug]Resume
+(send 96
+(recv 184
+(recv 181
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 180
+(send 214
+(recv 176
+[debug]Wait
+[debug]Resume
+(send 256
+(recv 89
+[debug]Wait
+[debug]Resume
+(send 264
+(send 268
+(recv 68
+[debug]Wait
+[debug]Resume
+(send 89
+(recv 233
+[debug]Wait
+[debug]Resume
+(recv 218
+[debug]Wait
+[debug]Resume
+(recv 97
+[debug]Wait
+[debug]Resume
+(send 47
+(send 93
+(send 213
+(recv 137
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 43
+(send 217
+(recv 52
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(send 261
+128
+128
+128
+(recv 218
+(recv 91
+[debug]Wait
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 270
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 134
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6348
+testing num_wrong: 189
+testing accuracy:  0.971088
+Time for Validation is 1028
+[debug]Resume[debug]Resume
+[debug]Resume
+
+[debug]Resume
+(send 52
+(send 51
+(send 183
+(send 178
+(recv 224
+[debug]Wait
+[debug]Resume
+(send 62
+(recv 225
+[debug]Wait
+[debug]Resume
+(recv 179
+[debug]Wait
+[debug]Resume
+(recv 92
+[debug]Wait
+[debug]Resume
+(send 166
+(send 135
+(recv 219
+[debug]Wait
+[debug]Resume
+(send 220
+(send 219
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 144
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 92
+[debug]Wait
+[debug]Resume
+(send 170
+(recv 269
+[debug]Wait
+[debug]Resume
+(send 222
+(recv 135
+[debug]Wait
+[debug]Resume
+(send 180
+(send 176
+(recv 279
+[debug]Wait
+[debug]Resume
+(send 137
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 270
+[debug]Wait
+[debug]Resume
+(recv 219
+[debug]Wait
+[debug]Resume
+(send 133
+(send 218
+(recv 270
+[debug]Wait
+[debug]Resume
+(send 54
+(send 216
+(recv 50
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(send 92
+(recv 224
+[debug]Wait
+[debug]Resume
+(recv 92
+[debug]Wait
+[debug]Resume
+(recv 188
+[debug]Wait
+[debug]Resume
+(send 213
+(send 218
+(recv 226
+[debug]Wait
+[debug]Resume
+(send 223
+(send 137
+(recv 138
+[debug]Wait
+[debug]Resume
+(recv 176
+[debug]Wait
+[debug]Resume
+(send 261
+(recv 89
+[debug]Wait
+[debug]Resume
+(send 49
+(send 214
+(recv 139
+[debug]Wait
+[debug]Resume
+(recv 136
+[debug]Wait
+[debug]Resume
+(send 91
+(send 184
+(recv 49
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 219
+[debug]Wait
+[debug]Resume
+(send 264
+(recv 219
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+(send 92
+128
+128
+(send 257
+128
+128
+128
+128
+128
+(recv 227
+[debug]Wait
+128
+128
+(recv 138
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 222
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 220
+[debug]Wait
+128
+128
+128
+9
+testing num_right: 6363
+testing num_wrong: 174
+testing accuracy:  0.973382
+Time for Validation is 1041
+[debug]Resume
+[debug]Resume[debug]Resume
+[debug]Resume
+
+(send 219
+(send 221
+(send 218
+(send 219
+(recv 60
+[debug]Wait
+[debug]Resume
+(send 95
+(recv 227
+[debug]Wait
+[debug]Resume
+(recv 92
+[debug]Wait
+[debug]Resume
+(recv 174
+[debug]Wait
+[debug]Resume
+(send 89
+(send 129
+(send 90
+(recv 219
+[debug]Wait
+[debug]Resume
+(recv 235
+[debug]Wait
+[debug]Resume
+(send 189
+(send 221
+(recv 52
+[debug]Wait
+[debug]Resume
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 84
+(recv 176
+[debug]Wait
+[debug]Resume
+(send 310
+(recv 175
+[debug]Wait
+[debug]Resume
+(send 275
+(send 133
+(recv 46
+[debug]Wait
+[debug]Resume
+(recv 55
+[debug]Wait
+[debug]Resume
+(send 178
+(send 176
+(recv 139
+[debug]Wait
+[debug]Resume
+(send 185
+(recv 184
+[debug]Wait
+[debug]Resume
+(recv 224
+[debug]Wait
+[debug]Resume
+(send 225
+(recv 221
+[debug]Wait
+[debug]Resume
+(send 214
+(send 223
+(recv 92
+[debug]Wait
+[debug]Resume
+(recv 275
+[debug]Wait
+[debug]Resume
+(send 257
+(send 195
+(recv 129
+[debug]Wait
+[debug]Resume
+(recv 183
+[debug]Wait
+[debug]Resume
+(recv 264
+[debug]Wait
+[debug]Resume
+(send 179
+(send 267
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 230
+(send 85
+(recv 100
+[debug]Wait
+[debug]Resume
+(send 218
+(recv 180
+[debug]Wait
+[debug]Resume
+(recv 218
+[debug]Wait
+[debug]Resume
+(recv 136
+[debug]Wait
+[debug]Resume
+(recv 229
+[debug]Wait
+[debug]Resume
+(send 127
+(send 129
+(send 221
+(send 258
+(recv 48
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+(send 61
+128
+128
+128
+128
+128
+(recv 94
+128
+[debug]Wait
+128
+128
+128
+128
+(recv 225
+128
+[debug]Wait
+128
+(recv 91
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 219128
+
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6367
+testing num_wrong: 170
+testing accuracy:  0.973994
+Time for Validation is 997
+[debug]Resume
+[debug]Resume
+[debug]Resume
+Replaced !!!!!!
+[debug]Resume
+(send 175
+(send 173
+(send 177
+(send 180
+(recv 49
+[debug]Wait
+[debug]Resume
+(send 141
+(recv 135
+(recv 178
+[debug]Wait
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(recv 133
+[debug]Wait
+(recv 226
+[debug]Wait
+[debug]Resume
+[debug]Resume
+(send 137
+(send 177
+(send 136
+(send 172
+(recv 143
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(send 265
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 93
+[debug]Wait
+[debug]Resume
+(recv 227
+[debug]Wait
+[debug]Resume
+(send 179
+(send 183
+(recv 223
+[debug]Wait
+[debug]Resume
+(send 50
+(send 268
+(recv 129
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(send 132
+(recv 53
+[debug]Wait
+[debug]Resume
+(recv 268
+[debug]Wait
+[debug]Resume
+(send 86
+(send 256
+(recv 267
+[debug]Wait
+[debug]Resume
+(recv 307
+[debug]Wait
+[debug]Resume
+(send 147
+(send 141
+(recv 178
+[debug]Wait
+[debug]Resume
+(recv 220
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 177
+(send 87
+(send 174
+(recv 143
+[debug]Wait
+[debug]Resume
+(recv 93
+[debug]Wait
+[debug]Resume
+(send 270
+(send 231
+(recv 177
+[debug]Wait
+[debug]Resume
+(recv 227
+[debug]Wait
+[debug]Resume
+(send 256
+(recv 311
+[debug]Wait
+[debug]Resume
+(send 215
+(recv 223
+[debug]Wait
+[debug]Resume
+(send 191
+(send 85
+(recv 137
+[debug]Wait
+[debug]Resume
+(recv 132
+[debug]Wait
+[debug]Resume
+(send 269
+(recv 92
+[debug]Wait
+[debug]Resume
+(send 137
+(recv 217
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+(send 177
+128
+128
+128
+128
+(send 176
+(recv 146
+128
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 173
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+(recv 90
+[debug]Wait
+128
+128
+128
+128
+128
+128
+(recv 134
+[debug]Wait
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6365
+testing num_wrong: 172
+testing accuracy:  0.973688
+Time for Validation is 1018
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 177
+(send 220
+(send 221
+(send 223
+(recv 97
+[debug]Wait
+[debug]Resume
+(send 103
+(recv 47
+[debug]Wait
+[debug]Resume
+(recv 136
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+(send 93
+[debug]Resume
+(recv 182
+[debug]Wait
+[debug]Resume
+(send 181
+(send 90
+(send 258
+(recv 264
+[debug]Wait
+[debug]Resume
+(send 224
+(recv 221
+[debug]Wait
+[debug]Resume
+(recv 133
+[debug]Wait
+[debug]Resume
+(send 89
+(send 132
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 268
+[debug]Wait
+[debug]Resume
+(send 181
+(send 141
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 173
+(recv 268
+[debug]Wait
+[debug]Resume
+(recv 180
+(send 54
+[debug]Wait
+[debug]Resume
+(send 261
+(recv 224
+[debug]Wait
+[debug]Resume
+(recv 267
+[debug]Wait
+[debug]Resume
+(send 259
+(send 184
+(recv 222
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 261
+(recv 264
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 89
+(send 262
+(send 224
+(recv 50
+[debug]Wait
+[debug]Resume
+(recv 58
+[debug]Wait
+[debug]Resume
+(send 47
+(send 222
+(recv 180
+[debug]Wait
+[debug]Resume
+(recv 221
+[debug]Wait
+[debug]Resume
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 222
+(send 214
+(send 324
+(recv 138
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 181
+(send 309
+(recv 46
+[debug]Wait
+[debug]Resume
+(recv 182
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+(recv 140
+[debug]Wait
+128
+128
+128
+(send 269
+128
+128
+128
+128
+128
+(send 175
+128
+128
+128
+(recv 225
+[debug]Wait
+128
+128
+(recv 95
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 223
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6373
+testing num_wrong: 164
+testing accuracy:  0.974912
+Time for Validation is 1008
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 49
+(send 133
+(send 137
+(send 181
+(recv 51
+[debug]Wait
+[debug]Resume
+(send 70
+(recv 47
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 49
+[debug]Wait
+[debug]Resume
+(send 133
+(recv 92
+[debug]Wait
+[debug]Resume
+(send 180
+(recv 226
+[debug]Wait
+[debug]Resume
+(send 271
+(send 49
+(recv 269
+[debug]Wait
+[debug]Resume
+(send 45
+(recv 180
+[debug]Wait
+[debug]Resume
+(recv 225
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 266
+(send 170
+(send 222
+(send 175
+(recv 94
+[debug]Wait
+[debug]Resume
+(send 70
+(recv 49
+[debug]Wait
+(recv 53
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(send 86
+(recv 138
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 211
+(send 224
+(send 188
+(recv 53
+[debug]Wait
+[debug]Resume
+(recv 187
+[debug]Wait
+[debug]Resume
+(send 221
+(recv 89
+[debug]Wait
+[debug]Resume
+(send 178
+(recv 226
+[debug]Wait
+[debug]Resume
+(send 180
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 88
+(send 220
+(recv 130
+[debug]Wait
+[debug]Resume
+(recv 227
+[debug]Wait
+[debug]Resume
+(recv 264
+[debug]Wait
+[debug]Resume
+(send 132
+(recv 264
+(send 221
+[debug]Wait
+[debug]Resume
+(send 222
+(send 226
+(recv 94
+[debug]Wait
+[debug]Resume
+(send 144
+(recv 52
+[debug]Wait
+[debug]Resume
+(recv 188
+[debug]Wait
+[debug]Resume
+(send 213
+(send 134
+(recv 221
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+128
+128
+(recv 94
+[debug]Wait
+(send 145
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 272
+[debug]Wait
+128
+128
+128
+128
+128
+128
+(recv 90
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 267
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6372
+testing num_wrong: 165
+testing accuracy:  0.974759
+Time for Validation is 1079
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 179
+(send 221
+(send 217
+(send 219
+(recv 55
+[debug]Wait
+[debug]Resume
+(send 73
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 138
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 45
+(send 214
+(send 182
+(recv 221
+[debug]Wait
+[debug]Resume
+(send 93
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 47
+(recv 134
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 223
+(recv 181
+[debug]Wait
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(send 135
+(recv 95
+[debug]Wait
+[debug]Resume
+(send 84
+(send 213
+(send 257
+(recv 181
+[debug]Wait
+[debug]Resume
+(send 52
+(recv 46
+[debug]Wait
+[debug]Resume
+(recv 139
+[debug]Wait
+[debug]Resume
+(send 256
+(send 140
+(recv 132
+[debug]Wait
+[debug]Resume
+(recv 138
+[debug]Wait
+[debug]Resume
+(send 85
+(send 134
+(recv 50
+[debug]Wait
+[debug]Resume
+(send 177
+(recv 50
+[debug]Wait
+[debug]Resume
+(recv 49
+[debug]Wait
+[debug]Resume
+(send 220
+(recv 49
+[debug]Wait
+[debug]Resume
+(send 271
+(recv 96
+[debug]Wait
+[debug]Resume
+(send 89
+(send 176
+(recv 57
+[debug]Wait
+[debug]Resume
+(send 110
+(recv 136
+[debug]Wait
+[debug]Resume
+(send 219
+(recv 137
+[debug]Wait
+[debug]Resume
+(recv 230
+[debug]Wait
+[debug]Resume
+(recv 140
+[debug]Wait
+[debug]Resume
+(send 45
+(send 239
+(send 182
+(recv 53
+[debug]Wait
+[debug]Resume
+(recv 97
+[debug]Wait
+[debug]Resume
+(send 215
+(send 183
+(recv 267
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+(recv 140
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 225
+[debug]Wait
+128
+128
+128
+(send 259
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 220
+128
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6375
+testing num_wrong: 162
+testing accuracy:  0.975218
+Time for Validation is 1034
+[debug]Resume
+[debug]Resume[debug]Resume
+
+(recv 267
+[debug]Wait
+[debug]Resume
+(send 92
+(send 134
+(send 218
+(send 227
+(recv 53
+[debug]Wait
+[debug]Resume
+(send 257
+(recv 93
+[debug]Wait
+[debug]Resume
+(recv 91
+(recv 138
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+(send 176
+(recv 136
+[debug]Wait
+[debug]Resume
+(send 168
+(send 221
+(send 187
+(recv 179
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(send 90
+(recv 174
+[debug]Wait
+[debug]Resume
+(recv 224
+[debug]Wait
+[debug]Resume
+(send 96
+(recv 184
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 88
+(send 253
+(send 190
+(recv 49
+[debug]Wait
+[debug]Resume
+(send 137
+(recv 223
+[debug]Wait
+[debug]Resume
+(recv 141
+[debug]Wait
+[debug]Resume
+(send 224
+(recv 270
+[debug]Wait
+[debug]Resume
+(send 303
+(recv 180
+[debug]Wait
+[debug]Resume
+(recv 178
+[debug]Wait
+[debug]Resume
+(send 49
+(send 219
+(send 169
+(recv 47
+[debug]WaitReplaced !!!!!!
+
+[debug]Resume
+(send 140
+(recv 55
+[debug]Wait
+[debug]Resume
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 212
+(send 86
+(recv 145
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 96
+(send 192
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 225
+[debug]Wait
+[debug]Resume
+(send 267
+(recv 175
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 266
+(send 136
+(send 219
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 185
+(recv 93
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+(recv 91
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+(send 266
+128
+128
+(recv 262
+128
+[debug]Wait
+(send 261
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 131
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 90
+128
+[debug]Wait
+128
+128
+128
+9
+testing num_right: 6391
+testing num_wrong: 146
+testing accuracy:  0.977666
+Time for Validation is 1004
+[debug]Resume
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 180
+(send 179
+(send 224
+(send 227
+(recv 53
+[debug]Wait
+[debug]Resume
+(send 96
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 178
+(recv 49
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+(send 129
+(recv 306
+[debug]Wait
+[debug]Resume
+(send 213
+(send 212
+(send 159
+(recv 180
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 134
+[debug]Wait
+[debug]Resume
+(recv 174
+[debug]Wait
+[debug]Resume
+(send 44
+(recv 230
+[debug]Wait
+[debug]Resume
+(send 138
+(send 218
+(send 131
+(recv 135
+[debug]Wait
+[debug]Resume
+(send 99
+(recv 179
+[debug]Wait
+[debug]Resume
+(recv 227
+[debug]Wait
+[debug]Resume
+(recv 262
+[debug]Wait
+[debug]Resume
+(send 262
+(send 261
+(recv 227
+[debug]Wait
+[debug]Resume
+(send 222
+(send 264
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 92
+[debug]Wait
+[debug]Resume
+(send 272
+(send 216
+(recv 273
+[debug]Wait
+[debug]Resume
+(recv 220
+[debug]Wait
+[debug]Resume
+(send 128
+(recv 227
+[debug]Wait
+[debug]Resume
+(send 140
+(send 135
+(recv 52
+[debug]Wait
+[debug]Resume
+(recv 94
+[debug]Wait
+[debug]Resume
+(send 276
+(send 218
+(recv 132
+[debug]Wait
+[debug]Resume
+(recv 93
+[debug]Wait
+[debug]Resume
+(recv 221
+[debug]Wait
+[debug]Resume
+(send 256
+(send 270
+(send 218
+(recv 187
+[debug]Wait
+[debug]Resume
+(recv 270
+[debug]Wait
+[debug]Resume
+(send 133
+(send 212
+(recv 229
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+(send 92
+128
+128
+(recv 236
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(send 305
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 90
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 91
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 218
+[debug]Wait
+128
+9
+testing num_right: 6375
+testing num_wrong: 162
+testing accuracy:  0.975218
+Time for Validation is 1047
+[debug]Resume
+[debug]Resume[debug]Resume
+
+[debug]Resume
+(send 47
+(send 51
+(send 50
+(send 193
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 64
+(recv 134
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 131
+[debug]Wait
+[debug]Resume
+(recv 136
+[debug]Wait
+[debug]Resume
+(send 135
+(send 214
+(recv 262
+[debug]Wait
+[debug]Resume
+(send 300
+(send 178
+(recv 269
+[debug]Wait
+[debug]Resume
+(send 137
+(recv 100
+[debug]Wait
+[debug]Resume
+(recv 93
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 216
+(send 137
+(recv 51
+[debug]Wait
+[debug]Resume
+(send 176
+(send 223
+(recv 276
+[debug]Wait
+[debug]Resume
+(send 51
+(recv 135
+[debug]Wait
+[debug]Resume
+(recv 175
+[debug]Wait
+[debug]Resume
+(recv 131
+[debug]Wait
+[debug]Resume
+(recv 94
+[debug]Wait
+[debug]Resume
+(send 88
+(send 178
+(send 178
+(send 214
+(recv 49
+[debug]Wait
+[debug]Resume
+(send 103
+(recv 46
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 180
+(send 215
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 272
+[debug]Wait
+[debug]Resume
+(recv 141
+[debug]Wait
+[debug]Resume
+(send 185
+(send 219
+(send 222
+(recv 46
+[debug]Wait
+[debug]Resume
+(recv 182
+[debug]Wait
+[debug]Resume
+(send 262
+(send 174
+(recv 267
+[debug]Wait
+[debug]Resume
+(recv 275
+[debug]Wait
+[debug]Resume
+(send 85
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 265
+(send 137
+(recv 176
+[debug]Wait
+[debug]Resume
+(recv 138
+[debug]Wait
+[debug]Resume
+(send 219
+(send 181
+(recv 94
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+(recv 183
+[debug]Wait
+128
+128
+128
+128
+(send 94
+128
+(recv 99
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 48
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6393
+testing num_wrong: 144
+testing accuracy:  0.977972
+Time for Validation is 982
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 51
+(send 174
+(send 221
+(recv 264
+[debug]Wait
+[debug]Resume
+(send 94
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 264
+[debug]Wait
+[debug]Resume
+(recv 175
+[debug]Wait
+[debug]Resume
+(send 181
+(send 231
+(send 219
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 228
+(recv 130
+[debug]Wait
+[debug]Resume
+(send 136
+(recv 135
+[debug]Wait
+[debug]Resume
+(recv 225
+[debug]Wait
+[debug]Resume
+(send 86
+(send 231
+(recv 135
+[debug]Wait
+[debug]Resume
+(recv 175
+[debug]Wait
+[debug]Resume
+(send 171
+(recv 219
+[debug]Wait
+[debug]Resume
+(send 137
+(send 315
+(recv 231
+[debug]Wait
+[debug]Resume
+(send 229
+(recv 56
+[debug]Wait
+[debug]Resume
+(send 178
+(recv 133
+[debug]Wait
+[debug]Resume
+(recv 92
+[debug]Wait
+[debug]Resume
+(send 138
+(send 175
+(recv 272
+[debug]Wait
+[debug]Resume
+(recv 180
+(send 136
+[debug]Wait
+[debug]Resume
+(recv 219
+[debug]Wait
+[debug]Resume
+(send 262
+(recv 224
+[debug]Wait
+[debug]Resume
+(send 130
+(send 180
+(recv 268
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 130
+[debug]Wait
+[debug]Resume
+(send 45
+(recv 227
+[debug]Wait
+[debug]Resume
+(send 223
+(send 272
+(recv 268
+[debug]Wait
+[debug]Resume
+(recv 179
+[debug]Wait
+[debug]Resume
+(send 287
+(send 173
+(recv 135
+[debug]Wait
+[debug]Resume
+(recv 222
+[debug]Wait
+[debug]Resume
+(send 48
+(send 223
+(recv 184
+[debug]Wait
+[debug]Resume
+(recv 268
+[debug]Wait
+[debug]Resume
+(send 91
+(send 129
+(recv 88
+[debug]Wait
+[debug]Resume
+(send 314
+(recv 305
+[debug]Wait
+[debug]Resume
+(send 140
+(recv 52
+Replaced !!!!!!
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+(recv 221
+(send 49
+[debug]Wait
+128
+128
+128
+128
+(recv 48
+128
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 262
+128
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6362
+testing num_wrong: 175
+testing accuracy:  0.973229
+Time for Validation is 934
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 174
+(send 174
+(send 222
+(recv 187
+[debug]Wait
+[debug]Resume
+(send 266
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 87
+(recv 224
+[debug]Wait
+[debug]Resume
+(recv 176
+[debug]Wait
+[debug]Resume
+(send 90
+(send 194
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 262
+[debug]Wait
+[debug]Resume
+(send 131
+(recv 89
+[debug]Wait
+[debug]Resume
+(send 91
+(send 136
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 271
+(recv 175
+[debug]Wait
+[debug]Resume
+(recv 223
+[debug]Wait
+[debug]Resume
+(recv 219
+[debug]Wait
+[debug]Resume
+(send 45
+(send 213
+(send 176
+(recv 227
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 44
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 221
+(send 93
+(recv 183
+[debug]Wait
+[debug]Resume
+(send 178
+(recv 48
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 223
+[debug]Wait
+[debug]Resume
+(send 182
+(recv 225
+[debug]Wait
+[debug]Resume
+(send 257
+(send 223
+(recv 218
+[debug]Wait
+[debug]Resume
+(send 136
+(recv 262
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 133
+[debug]Wait
+[debug]Resume
+(recv 262
+[debug]Wait
+[debug]Resume
+(send 134
+(send 179
+(send 212
+(recv 220
+[debug]Wait
+[debug]Resume
+(send 259
+(recv 89
+[debug]Wait
+[debug]Resume
+(send 88
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 220
+[debug]Wait
+[debug]Resume
+(send 262
+(send 227
+(recv 185
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 51
+[debug]Wait
+[debug]Resume
+(send 44
+(send 132
+(recv 179
+[debug]Wait
+[debug]Resume
+(send 87
+(recv 229
+[debug]Wait
+[debug]Resume
+(send 223
+(recv 218
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(send 179
+128
+128
+(recv 221
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 175
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 224
+[debug]Wait
+128
+128
+128
+128
+128
+9
+testing num_right: 6400
+testing num_wrong: 137
+testing accuracy:  0.979042
+Time for Validation is 991
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 176
+(send 218
+(send 219
+(recv 49
+[debug]Wait
+[debug]Resume
+(send 270
+(recv 175
+(recv 175
+[debug]Wait
+[debug]Wait
+[debug]Resume
+[debug]Resume
+(recv 265
+[debug]Wait
+[debug]Resume
+(send 45
+(send 53
+(send 259
+(recv 141
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(send 221
+(recv 181
+(recv 138
+[debug]Wait
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(recv 271
+[debug]Wait
+[debug]Resume
+(send 128
+(send 131
+(send 142
+(recv 267
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(send 138
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 182
+[debug]Wait
+[debug]Resume
+(send 137
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 169
+(send 273
+(recv 177
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 218
+[debug]Wait
+[debug]Resume
+(send 183
+(recv 227
+[debug]Wait
+[debug]Resume
+(send 215
+(send 262
+(recv 271
+[debug]Wait
+[debug]Resume
+(send 56
+(recv 96
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(send 133
+(recv 178
+[debug]Wait
+[debug]Resume
+(recv 216
+[debug]Wait
+[debug]Resume
+(send 135
+(send 175
+(recv 261
+[debug]Wait
+[debug]Resume
+(send 142
+(recv 90
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(send 90
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 224
+(send 213
+(recv 265
+[debug]Wait
+[debug]Resume
+(send 276
+(recv 134
+[debug]Wait
+[debug]Resume
+(recv 216
+[debug]Wait
+[debug]Resume
+(recv 222
+[debug]Wait
+[debug]Resume
+(send 45
+(send 92
+(send 256
+(recv 191
+[debug]Wait
+[debug]Resume
+(send 97
+(recv 133
+[debug]Wait
+[debug]Resume
+(send 212
+(recv 216
+[debug]Wait
+[debug]Resume
+(send 142
+(recv 222
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(send 216
+128
+128
+(recv 94
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 228
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 219
+[debug]Wait
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6390
+testing num_wrong: 147
+testing accuracy:  0.977513
+Time for Validation is 1035
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 175
+(send 218
+(send 221
+(recv 269
+[debug]Wait
+[debug]Resume
+(send 228
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 133
+(recv 136
+[debug]Wait
+[debug]Resume
+(send 258
+(send 140
+(recv 272
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 220
+[debug]Wait
+[debug]Resume
+(send 175
+(recv 263
+[debug]Wait
+[debug]Resume
+(send 214
+(send 273
+(recv 220
+[debug]Wait
+[debug]Resume
+(send 91
+(recv 89
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(send 93
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 222
+(recv 267
+[debug]Wait
+[debug]Resume
+(recv 218
+[debug]Wait
+[debug]Resume
+(send 266
+(send 266
+(recv 93
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(send 132
+(recv 224
+[debug]Wait
+[debug]Resume
+(recv 89
+[debug]Wait
+[debug]Resume
+(send 214
+(recv 131
+[debug]Wait
+[debug]Resume
+(send 264
+(send 175
+(recv 277
+[debug]Wait
+[debug]Resume
+(recv 50
+[debug]Wait
+[debug]Resume
+(send 213
+(send 262
+(recv 132
+[debug]Wait
+[debug]Resume
+(send 88
+(recv 226
+[debug]Wait
+[debug]Resume
+(send 92
+(recv 224
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 223
+[debug]Wait
+[debug]Resume
+(send 90
+(send 169
+(send 176
+(recv 192
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(send 131
+(recv 262
+[debug]Wait
+[debug]Resume
+(recv 132
+[debug]Wait
+[debug]Resume
+(recv 135
+[debug]Wait
+[debug]Resume
+(send 135
+(send 86
+(send 141
+(recv 54
+[debug]Wait
+[debug]Resume
+(send 270
+(recv 89
+[debug]Wait
+[debug]Resume
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 217
+(recv 263
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+(send 224
+128
+128
+128
+128
+128
+128
+128
+128
+(send 276
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 180
+[debug]Wait
+128
+128
+(recv 135
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 222
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6389
+testing num_wrong: 148
+testing accuracy:  0.97736
+Time for Validation is 1077
+[debug]Resume
+Replaced !!!!!!
+[debug]Resume
+[debug]Resume
+(send 173
+(send 222
+(send 223
+(recv 182
+[debug]Wait
+[debug]Resume
+(send 177
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 217
+[debug]Wait
+[debug]Resume
+(recv 174
+[debug]Wait
+[debug]Resume
+(send 256
+(send 264
+(send 264
+(recv 268
+[debug]Wait
+[debug]Resume
+(send 264
+(recv 228
+[debug]Wait
+[debug]Resume
+(recv 183
+[debug]Wait
+[debug]Resume
+(send 134
+(recv 46
+[debug]Wait
+[debug]Resume
+(send 267
+(send 273
+(recv 264
+[debug]WaitReplaced !!!!!!
+
+[debug]Resume
+(recv 262
+[debug]Wait
+[debug]Resume
+(send 50
+(send 49
+(recv 183
+[debug]Wait
+[debug]Resume
+(send 260
+(recv 269
+[debug]Wait
+[debug]Resume
+(send 265
+(recv 265
+[debug]Wait
+[debug]Resume
+(send 258
+(recv 260
+[debug]Wait
+[debug]Resume
+(recv 267
+[debug]Wait
+[debug]Resume
+(send 271
+(send 270
+(recv 220
+[debug]Wait
+[debug]Resume
+(send 95
+(recv 226
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 259
+(send 173
+(recv 221
+[debug]Wait
+[debug]Resume
+(send 269
+(recv 136
+[debug]Wait
+[debug]Resume
+(recv 263
+[debug]Wait
+[debug]Resume
+(send 265
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 133
+(send 268
+(recv 99
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 218
+(send 215
+(recv 223
+[debug]Wait
+[debug]Resume
+(recv 92
+[debug]Wait
+[debug]Resume
+(send 137
+(send 225
+(recv 136
+[debug]Wait
+[debug]Resume
+(recv 141
+[debug]Wait
+[debug]Resume
+(send 50
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 255
+(send 45
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 146
+(recv 267
+Replaced !!!!!!
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+(recv 223
+[debug]Wait
+(recv 91
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+(send 176
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 268
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6399
+testing num_wrong: 138
+testing accuracy:  0.978889
+Time for Validation is 927
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 130
+(send 176
+(send 221
+(recv 58
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(send 226
+(recv 89
+[debug]Wait
+[debug]Resume
+(send 44
+(recv 227
+[debug]Wait
+[debug]Resume
+(recv 267
+[debug]Wait
+[debug]Resume
+(send 134
+(send 215
+(recv 49
+[debug]Wait
+[debug]Resume
+(recv 263
+[debug]Wait
+[debug]Resume
+(send 218
+(send 230
+(recv 50
+[debug]Wait
+[debug]Resume
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 214
+(send 181
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 214
+(recv 225
+[debug]Wait
+[debug]Resume
+(send 94
+(recv 182
+[debug]Wait
+[debug]Resume
+(send 268
+(recv 226
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 133
+(send 180
+(recv 228
+[debug]Wait
+[debug]Resume
+(send 131
+(recv 181
+[debug]Wait
+[debug]Resume
+(send 183
+(recv 221
+[debug]Wait
+[debug]Resume
+(recv 175
+[debug]Wait
+[debug]Resume
+(send 47
+(send 94
+(recv 182
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 87
+(send 219
+(recv 228
+[debug]Wait
+[debug]Resume
+(send 182
+(recv 228
+[debug]Wait
+[debug]Resume
+(send 259
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 177
+(recv 218
+[debug]Wait
+[debug]Resume
+(send 46
+(recv 270
+[debug]Wait
+[debug]Resume
+(send 94
+(recv 51
+[debug]Wait
+[debug]Resume
+(recv 132
+[debug]Wait
+[debug]Resume
+(send 174
+(send 219
+(recv 270
+[debug]Wait
+[debug]Resume
+(recv 46
+[debug]Wait
+[debug]Resume
+(send 133
+(send 261
+(recv 95
+[debug]Wait
+[debug]Resume
+(send 93
+(recv 267
+[debug]Wait
+[debug]Resume
+(send 272
+(recv 219
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+(recv 218
+[debug]Wait
+128
+128
+(recv 135
+[debug]Wait
+128
+128
+128
+128
+128
+(send 219
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 263
+[debug]Wait
+9
+testing num_right: 6397
+testing num_wrong: 140
+testing accuracy:  0.978583
+Time for Validation is 982
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 47
+(send 184
+(send 222
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 50
+(recv 135
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 261
+[debug]Wait
+[debug]Resume
+(send 133
+(send 257
+(send 266
+(recv 135
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 88
+(send 226
+(recv 225
+[debug]Wait
+[debug]Resume
+(send 218
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 226
+(recv 94
+[debug]Wait
+[debug]Resume
+(send 127
+(recv 262
+[debug]Wait
+[debug]Resume
+(recv 136
+[debug]Wait
+[debug]Resume
+(send 230
+(send 255
+(recv 90
+[debug]Wait
+[debug]Resume
+(send 135
+(recv 178
+[debug]Wait
+[debug]Resume
+(send 139
+(recv 138
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 84
+(send 271
+(recv 220
+[debug]Wait
+[debug]Resume
+(send 101
+(recv 97
+[debug]Wait
+[debug]Resume
+(send 138
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 176
+(recv 261
+[debug]Wait
+[debug]Resume
+(send 51
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 268
+(recv 265
+[debug]Wait
+[debug]Resume
+(send 141
+(recv 176
+[debug]Wait
+[debug]Resume
+(send 97
+(recv 307
+[debug]Wait
+[debug]Resume
+(recv 178
+(send 51
+[debug]Wait
+[debug]Resume
+(send 166
+(recv 134
+[debug]Wait
+[debug]Resume
+(recv 224
+[debug]Wait
+[debug]Resume
+(send 189
+(send 192
+(recv 90
+[debug]WaitReplaced !!!!!!
+
+[debug]Resume
+(recv 226
+[debug]Wait
+[debug]Resume
+(send 266
+(recv 187
+[debug]Wait
+[debug]Resume
+(send 215
+(send 274
+(recv 222
+[debug]Wait
+[debug]Resume
+(send 229
+(recv 224
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+(recv 265
+[debug]Wait
+128
+(send 43
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 271
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 130
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6403
+testing num_wrong: 134
+testing accuracy:  0.979501
+Time for Validation is 976
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 133
+(send 175
+(send 217
+(recv 234
+[debug]Wait
+[debug]Resume
+(send 176
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 181
+[debug]Wait
+[debug]Resume
+(send 219
+(send 184
+(send 261
+(recv 275
+[debug]Wait
+[debug]Resume
+(send 175
+(recv 224
+[debug]Wait
+[debug]Resume
+(send 215
+(recv 179
+[debug]Wait
+[debug]Resume
+(recv 222
+[debug]Wait
+[debug]Resume
+(send 43
+(send 232
+(recv 89
+[debug]Wait
+[debug]Resume
+(send 43
+(recv 223
+[debug]Wait
+[debug]Resume
+(send 138
+(recv 218
+[debug]Wait
+[debug]Resume
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 257
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 219
+(send 171
+(recv 221
+[debug]Wait
+[debug]Resume
+(recv 262
+[debug]Wait
+(send 266
+[debug]Resume
+(send 213
+(recv 218
+[debug]Wait
+[debug]Resume
+(recv 226
+[debug]Wait
+[debug]Resume
+(send 175
+(send 265
+(recv 177
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 271
+[debug]Wait
+[debug]Resume
+(send 260
+(send 130
+(recv 135
+[debug]Wait
+[debug]Resume
+(send 48
+(recv 223
+[debug]Wait
+[debug]Resume
+(send 172
+(recv 134
+[debug]Wait
+[debug]Resume
+(recv 135
+[debug]Wait
+[debug]Resume
+(send 132
+(send 224
+(recv 220
+[debug]Wait
+[debug]Resume
+(send 218
+(recv 178
+[debug]Wait
+[debug]Resume
+(send 133
+(recv 89
+[debug]Wait
+[debug]Resume
+(send 214
+(recv 135
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 224
+(send 258
+(recv 224
+[debug]Wait
+[debug]Resume
+(recv 174
+[debug]Wait
+[debug]Resume
+(send 271
+(send 300
+(recv 179
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+(recv 222
+[debug]Wait
+128
+(send 92
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 177
+[debug]Wait
+128
+128
+(recv 224
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6397
+testing num_wrong: 140
+testing accuracy:  0.978583
+Time for Validation is 977
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 134
+(send 218
+(send 220
+(recv 100
+[debug]Wait
+[debug]Resume
+(send 224
+(recv 183
+[debug]Wait
+[debug]Resume
+(recv 218
+[debug]Wait
+[debug]Resume
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 171
+(send 183
+(send 213
+(recv 195
+[debug]Wait
+[debug]Resume
+(send 271
+(recv 175
+[debug]Wait
+[debug]Resume
+(send 47
+(recv 93
+[debug]Wait
+[debug]Resume
+(send 172
+(recv 269
+[debug]Wait
+[debug]Resume
+(send 274
+(recv 273
+[debug]Wait
+[debug]Resume
+(send 132
+(recv 224
+[debug]Wait
+[debug]Resume
+(recv 221
+[debug]Wait
+[debug]Resume
+(send 275
+(send 262
+(recv 271
+[debug]Wait
+[debug]Resume
+(recv 227
+[debug]Wait
+[debug]Resume
+(send 133
+(send 268
+(recv 176
+[debug]Wait
+[debug]Resume
+(recv 220
+[debug]Wait
+[debug]Resume
+(send 168
+(send 185
+(recv 221
+[debug]Wait
+[debug]Resume
+(send 215
+(recv 228
+[debug]Wait
+[debug]Resume
+(send 180
+(recv 140
+[debug]Wait
+[debug]Resume
+(send 212
+(recv 220
+[debug]Wait
+[debug]Resume
+(send 221
+(recv 222
+[debug]Wait
+[debug]Resume
+(send 263
+(recv 220
+(recv 48
+[debug]Wait
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(send 259
+(send 266
+(recv 95
+[debug]Wait
+[debug]Resume
+(recv 186
+[debug]Wait
+[debug]Resume
+(send 230
+(send 271
+(recv 266
+[debug]Wait
+[debug]Resume
+(recv 223
+[debug]Wait
+[debug]Resume
+(send 87
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 264
+(send 229
+(recv 266
+[debug]Wait
+[debug]Resume
+(send 180
+(recv 263
+[debug]Wait
+[debug]Resume
+(send 134
+(recv 99
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+(recv 261
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(send 218
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 220
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 175
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6399
+testing num_wrong: 138
+testing accuracy:  0.978889
+Time for Validation is 1030
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 89
+(send 177
+(send 222
+(recv 262
+[debug]Wait
+[debug]Resume
+(send 191
+(recv 134
+[debug]Wait
+[debug]Resume
+(send 135
+(recv 271
+[debug]Wait
+[debug]Resume
+(recv 267
+[debug]Wait
+[debug]Resume
+(send 268
+(send 215
+(recv 48
+[debug]Wait
+[debug]Resume
+(recv 265
+[debug]Wait
+[debug]Resume
+(send 255
+(send 219
+(recv 47
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 277
+[debug]Wait
+[debug]Resume
+(send 259
+(send 177
+(recv 135
+[debug]Wait
+[debug]Resume
+(recv 97
+[debug]Wait
+[debug]Resume
+(send 175
+(send 266
+(recv 49
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 267
+[debug]Wait
+[debug]Resume
+(send 228
+(send 219
+(recv 134
+[debug]Wait
+[debug]Resume
+(recv 221
+[debug]Wait
+[debug]Resume
+(send 216
+(send 218
+(recv 218
+[debug]Wait
+[debug]Resume
+(recv 311
+[debug]Wait
+[debug]Resume
+(send 87
+(send 177
+(recv 52
+[debug]Wait
+[debug]Resume
+(send 264
+(recv 217
+[debug]Wait
+[debug]Resume
+(send 143
+(recv 140
+[debug]Wait
+[debug]Resume
+(send 124
+(recv 220
+[debug]Wait
+[debug]Resume
+(recv 219
+[debug]Wait
+[debug]Resume
+(send 221
+(send 219
+(recv 133
+[debug]Wait
+[debug]Resume
+(recv 132
+[debug]Wait
+[debug]Resume
+(send 46
+(send 259
+(recv 50
+[debug]Wait
+[debug]Resume
+(send 262
+(recv 272
+[debug]Wait
+[debug]Resume
+(recv 175
+[debug]Wait
+[debug]Resume
+(send 178
+(send 267
+(recv 141
+[debug]Wait
+[debug]Resume
+(recv 137
+[debug]Wait
+[debug]Resume
+(send 260
+(send 263
+(recv 223
+[debug]Wait
+[debug]Resume
+(recv 271
+(send 268
+[debug]Wait
+[debug]Resume
+(send 219
+(recv 219
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+(recv 261
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(send 262
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 175
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 180
+[debug]Wait
+128
+128
+9
+testing num_right: 6406
+testing num_wrong: 131
+testing accuracy:  0.97996
+Time for Validation is 1000
+[debug]Resume
+[debug]Resume
+[debug]Resume
+(send 173
+(send 176
+(send 217
+(recv 49
+[debug]Wait
+[debug]Resume
+(send 100
+(recv 225
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 179
+[debug]Wait
+[debug]Resume
+(recv 130
+[debug]Wait
+[debug]Resume
+(send 182
+(send 215
+(send 216
+(recv 224
+[debug]Wait
+[debug]Resume
+(send 137
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 219
+(recv 220
+[debug]Wait
+[debug]Resume
+(send 134
+(send 273
+(recv 133
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 48
+[debug]Wait
+[debug]Resume
+(send 169
+(send 258
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 45
+(recv 95
+[debug]Wait
+[debug]Resume
+(send 262
+(recv 181
+[debug]Wait
+[debug]Resume
+(recv 92
+[debug]Wait
+[debug]Resume
+(recv 263
+[debug]Wait
+[debug]Resume
+(send 255
+(send 263
+(send 223
+(recv 152
+[debug]Wait
+[debug]Resume
+(send 263
+(recv 220
+[debug]Wait
+[debug]Resume
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 178
+[debug]Wait
+[debug]Resume
+(send 259
+(send 174
+(send 213
+(recv 177
+[debug]Wait
+[debug]Resume
+(send 135
+(recv 177
+[debug]Wait
+[debug]Resume
+(recv 178
+(recv 92
+[debug]Wait
+[debug]Resume
+[debug]Wait
+[debug]Resume
+(send 213
+(send 227
+(send 261
+(recv 184
+[debug]Wait
+[debug]Resume
+(send 262
+(recv 138
+[debug]Wait
+[debug]Resume
+(send 45
+(recv 223
+[debug]Wait
+[debug]Resume
+(recv 266
+(send 214
+[debug]Wait
+[debug]Resume
+(send 225
+(recv 178
+[debug]Wait
+[debug]Resume
+(recv 137
+[debug]Wait
+[debug]Resume
+(send 172
+(send 179
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 45
+(recv 226
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 139
+[debug]Wait
+128
+128
+128
+(send 269
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 182
+128
+[debug]Wait
+128
+128
+128
+128
+128
+(recv 224
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+9
+testing num_right: 6404
+testing num_wrong: 133
+testing accuracy:  0.979654
+Time for Validation is 952
+[debug]Resume[debug]Resume
+[debug]Resume
+
+(send 48
+(send 50
+(send 195
+(recv 220
+Replaced !!!!!!
+[debug]Wait
+[debug]Resume
+(recv 91
+[debug]Wait
+[debug]Resume
+(send 135
+(recv 179
+[debug]Wait
+[debug]Resume
+(send 134
+(send 277
+(recv 182
+[debug]Wait
+[debug]Resume
+(send 228
+(recv 178
+[debug]Wait
+[debug]Resume
+(recv 136
+[debug]Wait
+[debug]Resume
+(recv 137
+[debug]Wait
+[debug]Resume
+(send 219
+(send 127
+(send 262
+(recv 46
+[debug]Wait
+[debug]Resume
+(send 91
+(recv 91
+[debug]Wait
+[debug]Resume
+(recv 93
+[debug]Wait
+[debug]Resume
+(recv 219
+[debug]Wait
+[debug]Resume
+(send 90
+(send 224
+(send 261
+(recv 267
+[debug]WaitReplaced !!!!!!
+
+[debug]Resume
+(send 129
+(recv 223
+[debug]Wait
+[debug]Resume
+(recv 179
+[debug]Wait
+[debug]Resume
+(recv 262
+[debug]Wait
+[debug]Resume
+(send 175
+(send 272
+(send 261
+(recv 181
+[debug]Wait
+[debug]Resume
+(recv 47
+[debug]Wait
+[debug]Resume
+(send 215
+(send 131
+(recv 139
+[debug]Wait
+[debug]Resume
+(send 133
+(recv 261
+[debug]Wait
+[debug]Resume
+(send 230
+(recv 90
+[debug]Wait
+[debug]Resume
+(recv 180
+[debug]Wait
+[debug]Resume
+(send 44
+(recv 263
+[debug]Wait
+[debug]Resume
+(send 180
+(send 223
+(recv 225
+[debug]Wait
+[debug]Resume
+(recv 180
+[debug]Wait
+[debug]Resume
+(recv 133
+[debug]Wait
+[debug]Resume
+(send 214
+(send 272
+(send 215
+(recv 231
+[debug]Wait
+[debug]Resume
+(send 47
+(recv 182
+[debug]Wait
+[debug]Resume
+(send 87
+(recv 180
+[debug]Wait
+[debug]Resume
+(recv 219
+[debug]Wait
+[debug]Resume
+(send 86
+(send 171
+(recv 223
+Replaced !!!!!![debug]Wait
+
+[debug]Resume
+(recv 224
+[debug]Wait
+Jump out from wait
+[debug]Resume
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(send 224
+(send 179
+128
+128
+128
+128
+128
+128
+(recv 262
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 219
+[debug]Wait
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+128
+(recv 270
+[debug]Wait
+128
+128
+128
+128
+9
+testing num_right: 6408
+testing num_wrong: 129
+testing accuracy:  0.980266
+Time for Validation is 1030
+!!!!!!!!!!!!!!!!!!!!!!!!!!!! epoch = 41
+Break!
+1299/1303
+[debug]Time to stop
+[debug]Signaled
+[debug]Resume
+[debug]Time to stop
+[debug]Signaled

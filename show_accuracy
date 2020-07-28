@@ -1,0 +1,2 @@
+#!/bin/sh
+awk '/accuracy/ {print $3}' $1

@@ -1,0 +1,2 @@
+#!/bin/sh
+awk '/All/ {print $3}' $1
