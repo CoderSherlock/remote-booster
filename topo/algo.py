@@ -177,7 +177,7 @@ if __name__ == "__main__":
     #  tmp_ending_epoch = [51, 84, 110, 116, 105, 141, 177, 194]
     #  tmp_ending_epoch = [3, 5, 6, 7, 8, 10, 11, 12]
     ce_table = []
-    for w in range(8, 9):
+    for w in range(7, 8):
         start = timeit.default_timer()
         gs = all_groups_v2(w)
         end = timeit.default_timer()
@@ -187,7 +187,7 @@ if __name__ == "__main__":
         for g in gs:
             if(len(g)>8):
                 continue
-            ce_table.append((52/caculate_ce_v2(g, 100, 100, 25.6, 0.08, 1.15), g))
+            ce_table.append((47/caculate_ce_v2(g, 100, 100, 7.08 , 0.08, 0.7), g))
         end = timeit.default_timer()
         print("Calculate time: {0}".format(end - start))
         start = timeit.default_timer()
