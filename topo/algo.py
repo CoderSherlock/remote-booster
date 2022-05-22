@@ -1,4 +1,5 @@
 import timeit
+import random
 
 
 ####################################################################################################
@@ -40,6 +41,24 @@ def group_helper(remain_worker: int, remain_group: int, cur_list: list) -> list:
         group_helper(remain_worker - i, remain_group - 1, tmp_list)
 
     return 0
+
+def most_balanced_group(worker_amount: int, cluster_amount: int) -> list:
+    # 4 -> [[4], [2,2], [2,1,1], [1,1,1,1]]
+    ret = []
+    for i in range(cluster_amount, min(worker_amount+1, cluster_amount+1)):
+        tmp = []
+        for j in range(0, i):
+            tmp.append(0)
+        tmp_rest_worker = worker_amount
+        while(tmp_rest_worker != 0):
+            for s in range(0, len(tmp)):
+                if(tmp_rest_worker == 0):
+                    break
+                tmp[s] += 1
+                tmp_rest_worker -= 1
+        ret.append(tmp)
+        # print(tmp)
+    return ret
 
 
 ret_list = []
@@ -105,7 +124,7 @@ def caculate_ce(group: list, bandwidth: float, parameter_size: float, mill_time:
     return ce
 
 def caculate_ce_v2(group: list, inbound_bandwidth: float, outbound_bandwidth: float, parameter_size: float, mill_time: float, train_time: float) -> float:
-    trans_time_rate = parameter_size / 2 / inbound_bandwidth + parameter_size / 2 / outbound_bandwidth
+    trans_time_rate = parameter_size / inbound_bandwidth + parameter_size / outbound_bandwidth
     top_level_amount = len(group)
     top_level_trans_time = top_level_amount * \
         trans_time_rate  # * time_bias(0, top_level_amount)
@@ -126,6 +145,29 @@ def caculate_ce_v2(group: list, inbound_bandwidth: float, outbound_bandwidth: fl
             ce += s_ce
 
     return ce
+
+def caculate_ce_v2_1(group: list, inbound_bandwidth: float, outbound_bandwidth: float, parameter_size: float, mill_time: float, train_time: float) -> float:
+    trans_time_rate = parameter_size / 2 / inbound_bandwidth + parameter_size / 2 / outbound_bandwidth
+    top_level_amount = len(group)
+    print(group.count(1), len(group), group)
+    top_level_trans_time = top_level_amount * \
+        trans_time_rate  # * time_bias(0, top_level_amount)
+
+    ce = float(0)
+    for s in group:
+        if (s == 1):
+            s_ce = 1 / (top_level_trans_time * 2 + mill_time + train_time)
+            # print(s_ce)
+            ce += s_ce
+        else:
+            bottom_level_amount = s - 1
+            bottom_level_trans_time = bottom_level_amount * \
+                trans_time_rate  # * time_bias(1, bottom_level_amount)
+            s_ce = 1 / ((top_level_trans_time) * 2 + mill_time) 
+            # print(s_ce)
+            ce += s_ce
+
+    return ce * random.uniform(1.009, 1.011)
 
 def caculate_ce_v3(group: list, inbound_bandwidth: float, outbound_bandwidth: float, parameter_size: float, mill_time: float, train_time: float) -> float:
     trans_time_rate = parameter_size / 2 / inbound_bandwidth + parameter_size / 2 / outbound_bandwidth
@@ -147,9 +189,69 @@ def caculate_ce_v3(group: list, inbound_bandwidth: float, outbound_bandwidth: fl
                         * 2 + mill_time * 2 + train_time)
             # print(s_ce)
             ce += s_ce
-
     return ce
 
+def caculate_ce_flat(device: int, inbound_bandwidth: float, parameter_size: float, mill_time: float, train_time: float) -> float:
+    trans_time_rate = parameter_size / inbound_bandwidth
+    # trans_time = device * trans_time_rate
+    trans_time = trans_time_rate
+    print(device, trans_time)
+
+    ce = float(0)
+    ce += device / (trans_time * 2 + mill_time + train_time)
+    # print(device, ce)
+    return ce
+
+"""
+In V4 ver CE caculator
+It's a updated version that discard the share-role impact, 
+"""
+def caculate_ce_v4(group: list, bandwidth_lut: list, parameter_size: float, mill_time: float, train_time: float) -> float:
+    top_level_trans_time = parameter_size / bandwidth_lut[len(group)]
+    print(group, top_level_trans_time)
+
+    ce = float(0)
+    for s in group:
+        bottom_level_amount = s
+        bottom_level_trans_time = parameter_size / bandwidth_lut[bottom_level_amount]
+        print(group, bottom_level_trans_time)
+        s_ce = s / ((top_level_trans_time + bottom_level_trans_time)
+                    * 2 + mill_time * 2 + train_time)
+        # print(s_ce)
+        ce += s_ce
+    # print(group, ce)
+    return ce
+
+"""
+Calculate CE Ver.5
+No role-sharing, top level not split the bandwidth
+"""
+def caculate_ce_v5(group: list, inbound_bandwidth: float, outbound_bandwidth: float, parameter_size: float, mill_time: float, train_time: float) -> float:
+    trans_time_rate = parameter_size / inbound_bandwidth + parameter_size / outbound_bandwidth
+    top_level_amount = len(group)
+    top_level_trans_time = trans_time_rate * top_level_amount
+
+    ce = float(0)
+    for s in group:
+        bottom_level_amount = s
+        bottom_level_trans_time = bottom_level_amount * \
+            trans_time_rate
+        s_ce = s / ((top_level_trans_time + bottom_level_trans_time) + mill_time * 2 + train_time)
+        print('Trans_time of {0} is {1}'.format(s, bottom_level_trans_time))
+        ce += s_ce
+    return ce
+
+"""
+Calculate CE for 1-level Ver.2 (used to sync with Cal_CE__V5)
+"""
+def caculate_ce_flat_v2(device: int, inbound_bandwidth: float, outbound_bandwidth: float, parameter_size: float, mill_time: float, train_time: float) -> float:
+    trans_time_rate = parameter_size / inbound_bandwidth + parameter_size / outbound_bandwidth
+    trans_time = trans_time_rate * device 
+
+    ce = float(0)
+    ce += device / (trans_time + mill_time + train_time)
+    # print('Trans_time of {0} is {1}'.format(device, trans_time))
+    return ce
 ####################################################
 # 50 Mbps
 # [2,2,2,1,1] 133.556
@@ -172,24 +274,107 @@ def caculate_ce_v3(group: list, inbound_bandwidth: float, outbound_bandwidth: fl
 # [6,1,1] 161.719
 ####################################################
 
+def round_and_avg(value, dividor):
+    value = round(value * dividor)
+    return value / dividor
+
+LENET_PARAMETER_SIZE = 7.08
+LENET_TRAINING_TIME = 0.7
+LENET_BATCH_IN_EPOCH = 47
+
+PERNET_PARAMETER_SIZE = 2.85
+PERNET_TRAINING_TIME = 1.15
+PERNET_BATCH_IN_EPOCH = 52
+
+Alpha_Weighted_Bandwidth_lenet = [
+    25,
+    25,
+    21.16487455,
+    17.55488531,
+    14.2337476,
+    11.11351583,
+    9.09093079,
+    7.192546528,
+    5.989256915,
+    5.127049771,
+    4.405043986
+]
+
+Alpha_Weighted_Bandwidth_pernet = [
+    25,
+    25,
+    16.68963097,
+    11.14586405,
+    8.141802671,
+    6.285381007,
+    5.0875866,
+    4.315050694,
+    4.110335937,
+    3.29485091,
+    2.950646206
+]
+
+Alpha_Weighted_Bandwidth_pernet_dummy = [
+    25,
+    25,
+    12.5,
+    8.33333333333333,
+    6.25,
+    5,
+    4.16666666666667,
+    3.57142857142857,
+    3.125,
+    2.77777777777778,
+    2.5,
+]
+
+Alpha_Weighted_Bandwidth_pernet_100 = [
+    100,
+    100,
+    89.53158662,
+    49.90030171,
+    43.27542412,
+    34.11166157,
+    31.86385669,
+    26.55743016,
+    25.97030905,
+    21.77526785,
+    19.7435841
+]
+
 
 if __name__ == "__main__":
-    #  tmp_ending_epoch = [51, 84, 110, 116, 105, 141, 177, 194]
-    #  tmp_ending_epoch = [3, 5, 6, 7, 8, 10, 11, 12]
     ce_table = []
-    for w in range(7, 8):
+    for w in range(1, 10):
+        """
+        For each number of workers, first put 1-level topology's CE into ce_table.
+        """
+        # ce_table.append((caculate_ce_flat(w, Alpha_Weighted_Bandwidth_pernet_dummy[w] * 0.218, PERNET_PARAMETER_SIZE * 8, 0.08, PERNET_TRAINING_TIME), w))
+        ce_table.append((caculate_ce_flat_v2(w, 25, 25, PERNET_PARAMETER_SIZE * 8, 0.08, PERNET_TRAINING_TIME), w))
+
+        """
+        Generate all topologies to be calculated CE value, put them all into gs (list).
+        * Method 1: all_groups_v2(w: worker amount) -> Generate all possible topologies (v2 is a fast implementation)
+        * Method 2: most_balanced_group(w: worker amount) -> Generate only most balanced 2-split topology, such as 9 workers will be placed as [5, 4]. 
+        """
         start = timeit.default_timer()
-        gs = all_groups_v2(w)
+        # gs = all_groups_v2(w)
+        gs = most_balanced_group(w, 3)
+        #  gs = [[8], [4, 4], [3, 3, 2], [2, 2, 2, 2],[2,2,2,1,1],[2,2,1,1,1,1],[2,1,1,1,1,1,1],[1,1,1,1,1,1,1,1]]
         end = timeit.default_timer()
-        print("Generate time: {0}".format(end - start))
-        print(len(gs))
+        # print("Generate time: {0}".format(end - start))
+        # print(len(gs))
+
+        """
+        For each topology in gs, compute its CE value.
+        """
         start = timeit.default_timer()
         for g in gs:
-            if(len(g)>8):
-                continue
-            ce_table.append((47/caculate_ce_v2(g, 100, 100, 7.08 , 0.08, 0.7), g))
+            # pass
+            ce_table.append((caculate_ce_v5(g, 25, 25, PERNET_PARAMETER_SIZE * 8, 0.08, PERNET_TRAINING_TIME), g))
+            # ce_table.append((caculate_ce_v4(g, [x * 0.218 for x in Alpha_Weighted_Bandwidth_pernet_dummy], PERNET_PARAMETER_SIZE, 0.08, PERNET_TRAINING_TIME), g))
         end = timeit.default_timer()
-        print("Calculate time: {0}".format(end - start))
+        # print("Calculate time: {0}".format(end - start))
         start = timeit.default_timer()
 
     #  ce_table.sort(reverse=True)
@@ -198,11 +383,22 @@ if __name__ == "__main__":
     print("Sort time: {0}".format(end - start))
 
     len_list = []
+    print_list = []
     for v, k in ce_table:
-        if (len(k) in len_list):
-            continue
-        if (len(k) > 8):
-            continue
+        #  if (sum(k) != len(k)):
+            #  continue
+        #  if (len(k) in len_list):
+            #  continue
+        #  if (len(k) > 8):
+            #  continue
+        #  else:
+        #  if (sum(k), len(k)) in print_list:
+        #      continue
+        if (type(k) == list):
+            print(sum(k), len(k), k, round(PERNET_BATCH_IN_EPOCH * 5 / v, 5))            
+            # print(sum(k), len(k), k, round(v, 5))
         else:
-            print(len(k), k, v)
-            len_list.append(len(k))
+            print(k, k, k, round(PERNET_BATCH_IN_EPOCH * 5 / v, 5))
+            # print(k, k, k, round(v, 5))
+        #  len_list.append(len(k))
+        #  print_list.append((sum(k), len(k)))
